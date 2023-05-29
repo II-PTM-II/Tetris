@@ -11,10 +11,8 @@ L'objectif principal est d'empiler les tétriminos de manière à former des lig
 À mesure que tu marques des points, tu peux passer à des niveaux de difficulté supérieurs. Le jeu devient plus rapide à chaque niveau, rendant le défi plus intense.
 Si tu empiles les tétriminos de manière à atteindre le sommet de l'écran, la partie est terminée et tu perds. Le jeu peut également se terminer si tu ne peux plus déplacer ou tourner les tétriminos en raison de l'espace restreint.
 
-- Sites utilisées
+- Sites utilisées :
 https://drive.google.com/drive/folders/1Nqj-yILIT9a8sfS8GJCWnQcBu-prWk16?usp=sharing
 
-- Amelioration Futur
-
-Possibilite de selectionner des skins de map (par exemple changer l'image du fond ou le plateau de jeu) qui pourrait personnalise l'interface de l'utilisateur.
-Mettre un systeme de vie jusqua la fermeture de la fenêtre
+- Amelioration Futur : Possibilite de selectionner des skins de map (par exemple changer l'image du fond ou le plateau de jeu) qui pourrait personnalise l'interface de l'utilisateur.
+Mettre un systeme de vie jusqua la fermeture de la fenêtre. Et pouvoir ajouter une page d'accueil avec un boutton exit.
