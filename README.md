@@ -15,5 +15,6 @@ Si tu empiles les tétriminos de manière à atteindre le sommet de l'écran, la
 https://drive.google.com/drive/folders/1Nqj-yILIT9a8sfS8GJCWnQcBu-prWk16?usp=sharing
 
 - Amelioration Futur
+
 Possibilite de selectionner des skins de map (par exemple changer l'image du fond ou le plateau de jeu) qui pourrait personnalise l'interface de l'utilisateur.
 Mettre un systeme de vie jusqua la fermeture de la fenêtre
