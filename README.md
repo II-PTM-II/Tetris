@@ -35,8 +35,9 @@ https://drive.google.com/drive/folders/1Nqj-yILIT9a8sfS8GJCWnQcBu-prWk16?usp=sha
 ---------------------------------------------------------------------- ᴀᴍᴇʟɪᴏʀᴀᴛɪᴏɴ ғᴜᴛᴜʀ ---------------------------------------------------------------------  
 
 
-Possibilite de selectionner des skins de map ( par exemple changer l'image du fond ou le plateau de jeu ) qui pourrait personnalise l'interface de l'utilisateur.
-Mettre un systeme de vie jusqua la fermeture de la fenêtre. Et pouvoir ajouter une page d'accueil avec un boutton exit.
+- Possibilite de selectionner des skins de map ( par exemple changer l'image du fond ou le plateau de jeu ) qui pourrait personnalise l'interface de l'utilisateur.
+- Mettre un systeme de vie jusqua la fermeture de la fenêtre. 
+- Ajouter une page d'accueil avec un boutton play et exit.
 
 
 ---------------------------------------------------------------------- ᴊᴏᴜʀɴᴀʟ ᴅᴇ ʙᴏʀᴅ ---------------------------------------------------------------------  
